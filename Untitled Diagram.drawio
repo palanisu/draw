@@ -1,37 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2022-09-19T01:58:55.371Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="a8hLdHjV-rZg_ejL4wzU" version="20.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-19T02:02:48.751Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="_C-Pr-94hmTT0jwnZoD0" version="20.3.2" type="github">
   <diagram id="RLPIfIOp28nnWQBB7bNk" name="Page-1">
-    <mxGraphModel dx="1102" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1102" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="RlIPI7aGD9BRiTl19wvW-1" value="&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=1;glass=0;strokeColor=#0000FF;strokeWidth=3;fontFamily=Courier New;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" vertex="1" parent="1">
+        <mxCell id="RlIPI7aGD9BRiTl19wvW-1" value="&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=1;glass=0;strokeColor=#0000FF;strokeWidth=3;fontFamily=Courier New;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" parent="1" vertex="1">
           <mxGeometry x="240" y="180" width="290" height="290" as="geometry" />
         </mxCell>
-        <mxCell id="RlIPI7aGD9BRiTl19wvW-2" value="OS" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.computer;pointerEvents=1;" vertex="1" parent="1">
+        <mxCell id="RlIPI7aGD9BRiTl19wvW-2" value="OS" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.computer;pointerEvents=1;" parent="1" vertex="1">
           <mxGeometry x="276.5" y="240" width="50" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="RlIPI7aGD9BRiTl19wvW-3" value="OS Disk" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.vhd_data_disk;pointerEvents=1;" vertex="1" parent="1">
+        <mxCell id="RlIPI7aGD9BRiTl19wvW-3" value="OS Disk" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.vhd_data_disk;pointerEvents=1;" parent="1" vertex="1">
           <mxGeometry x="414" y="235" width="37.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="RlIPI7aGD9BRiTl19wvW-5" value="Virtual NIC" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.nic;" vertex="1" parent="1">
+        <mxCell id="RlIPI7aGD9BRiTl19wvW-5" value="Virtual NIC" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.nic;" parent="1" vertex="1">
           <mxGeometry x="273" y="340" width="57" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="RlIPI7aGD9BRiTl19wvW-6" value="Public IP&amp;nbsp;" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/networking/Public_IP_Addresses.svg;" vertex="1" parent="1">
+        <mxCell id="RlIPI7aGD9BRiTl19wvW-6" value="Public IP&amp;nbsp;" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/networking/Public_IP_Addresses.svg;" parent="1" vertex="1">
           <mxGeometry x="414" y="340" width="65" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="RlIPI7aGD9BRiTl19wvW-7" value="&lt;h1&gt;&lt;font color=&quot;#ff0000&quot; face=&quot;Times New Roman&quot;&gt;Azure Virtual Network&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;glass=0;strokeWidth=3;fontFamily=Courier New;" vertex="1" parent="1">
+        <mxCell id="RlIPI7aGD9BRiTl19wvW-7" value="&lt;h1&gt;&lt;font color=&quot;#ff0000&quot; face=&quot;Times New Roman&quot;&gt;Azure Virtual Network&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;glass=0;strokeWidth=3;fontFamily=Courier New;" parent="1" vertex="1">
           <mxGeometry x="110" y="90" width="260" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="RlIPI7aGD9BRiTl19wvW-11" value="APP Subnet 10.0.1.0/24" style="rounded=1;whiteSpace=wrap;html=1;glass=0;strokeColor=#000000;strokeWidth=1;fontFamily=Times New Roman;fontSize=15;fontColor=#FF0000;" vertex="1" parent="1">
+        <mxCell id="RlIPI7aGD9BRiTl19wvW-11" value="APP Subnet 10.0.1.0/24" style="rounded=1;whiteSpace=wrap;html=1;glass=0;strokeColor=#000000;strokeWidth=1;fontFamily=Times New Roman;fontSize=15;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="276.5" y="190" width="183.5" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="RlIPI7aGD9BRiTl19wvW-12" value="App Network 10.0.0.0/16&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;fontFamily=Times New Roman;fontColor=#FF0000;" vertex="1" parent="1">
+        <mxCell id="RlIPI7aGD9BRiTl19wvW-12" value="App Network 10.0.0.0/16&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;fontFamily=Times New Roman;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="273" y="150" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RlIPI7aGD9BRiTl19wvW-13" value="&lt;font color=&quot;#000033&quot; face=&quot;Courier New&quot;&gt;&lt;b&gt;APP Subnet&lt;br&gt;10.0.1.0/24&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=0;strokeColor=#3333FF;strokeWidth=2;fontFamily=Times New Roman;fontSize=15;fontColor=#FF0000;" vertex="1" parent="1">
+        <mxCell id="RlIPI7aGD9BRiTl19wvW-13" value="&lt;font color=&quot;#000033&quot; face=&quot;Courier New&quot;&gt;&lt;b&gt;APP Subnet&lt;br&gt;10.0.1.0/24&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=0;strokeColor=#3333FF;strokeWidth=2;fontFamily=Times New Roman;fontSize=15;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="200" y="550" width="180" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="RlIPI7aGD9BRiTl19wvW-14" value="&lt;font face=&quot;Courier New&quot; color=&quot;#000000&quot;&gt;&lt;b&gt;DB Subnet&lt;br&gt;10.0.2.0/24&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=0;strokeColor=#3333FF;strokeWidth=2;fontFamily=Times New Roman;fontSize=15;fontColor=#FF0000;" vertex="1" parent="1">
+        <mxCell id="RlIPI7aGD9BRiTl19wvW-14" value="&lt;font face=&quot;Courier New&quot; color=&quot;#000000&quot;&gt;&lt;b&gt;DB Subnet&lt;br&gt;10.0.2.0/24&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=0;strokeColor=#3333FF;strokeWidth=2;fontFamily=Times New Roman;fontSize=15;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="440" y="550" width="170" height="180" as="geometry" />
         </mxCell>
       </root>
